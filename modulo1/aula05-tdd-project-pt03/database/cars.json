@@ -1,0 +1,19 @@
+[{
+  "id": "6ec50fa5-87af-463e-ad70-ac9d09fe98f3",
+  "name": "PT Cruiser",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}, {
+  "id": "fa193064-56de-4cbb-b491-4b977b1082b8",
+  "name": "Camaro",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}, {
+  "id": "ce14d64f-f417-41ee-b191-ae89bfd9f328",
+  "name": "Cruze",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}]

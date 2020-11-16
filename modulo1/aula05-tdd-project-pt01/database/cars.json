@@ -1,0 +1,19 @@
+[{
+  "id": "7ca1abb1-f4d8-41c1-8c3a-f9034eaa1119",
+  "name": "Impala",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}, {
+  "id": "9bc446c4-0dbb-435b-a745-6ee2d986ece7",
+  "name": "Expedition",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}, {
+  "id": "917ef3e6-6db8-4897-b105-17ef24cc3a64",
+  "name": "Escalade",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}]

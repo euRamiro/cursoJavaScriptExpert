@@ -1,1 +1,19 @@
-[{"id":"1746ecd6-bd42-4df4-b4ac-fa3cf08eebaa","name":"Jetta","releaseYear":2020,"available":true,"gasAvailable":true},{"id":"3e84b9e4-668d-40b8-adcf-afbed112233d","name":"Alpine","releaseYear":2020,"available":true,"gasAvailable":true},{"id":"1ac68a55-cf1a-44e0-a03e-5c893338f3b6","name":"LeBaron","releaseYear":2020,"available":true,"gasAvailable":true}]
+[{
+  "id": "6ec50fa5-87af-463e-ad70-ac9d09fe98f3",
+  "name": "PT Cruiser",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}, {
+  "id": "fa193064-56de-4cbb-b491-4b977b1082b8",
+  "name": "Camaro",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}, {
+  "id": "ce14d64f-f417-41ee-b191-ae89bfd9f328",
+  "name": "Cruze",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+}]
